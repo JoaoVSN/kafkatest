@@ -1,0 +1,29 @@
+# Build artifacts
+target/
+build/
+
+# IDE files
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.jar
+*.war
+*.class
+
+# Environment variables and sensitive configurations
+.env
+application.properties
+application.yml
